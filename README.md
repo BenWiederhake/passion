@@ -9,6 +9,8 @@ In this repository, you can prove that you *have* committed to passion!
 ## People who have committed to passion
 
 - [Ben Wiederhake](https://github.com/BenWiederhake), does stuff with [Serenity](https://github.com/SerenityOS/serenity), [recreational](https://github.com/BenWiederhake/evo_path#evo_path) [stuff](https://benwiederhake.github.io/oeis-funfacts/), [quines](https://github.com/BenWiederhake/normal-quine#normal-quine), and [small](https://github.com/BenWiederhake/ear#ear) [tools](https://github.com/BenWiederhake/pwned_passwords#pwned_passwords).
+- [Paul Kuruvilla](https://rohitpaulk.com), makes programming challenges at [codecrafters.io](https://codecrafters.io).
+
 
 ## How-to
 
