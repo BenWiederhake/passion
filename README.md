@@ -12,6 +12,7 @@ In this repository, you can prove that you *have* committed to passion!
 - [Diego E. Salazar](https://github.com/DiegoSalazar) Plays with web stuff. Occasionally mentors. Works at Bloomberg. [LinkedIn](https://www.linkedin.com/in/diegoesalazar/)
 - [Tim Engel](https://github.com/Veticus) currently spends way to much time on [PurpleFinch](https://github.com/DMU20s/PurpleFinch) and likes unnecessary hardware hackjobs. Decided to go back to schoolto get a computer science degree.
 - [Paul Kuruvilla](https://rohitpaulk.com), makes programming challenges at [codecrafters.io](https://codecrafters.io).
+- [Tyler Porter](https://github.com/pawptart), Ruby web dev and Raspberry Pi enthusiast. Regular contributer to [MLB LED Scoreboard](https://github.com/MLB-LED-Scoreboard/mlb-led-scoreboard).
 
 ## How-to
 
