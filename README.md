@@ -13,6 +13,6 @@ In this repository, you can prove that you *have* committed to passion!
 
 ## How-to
 
-1. Add yourself at the bottom of the list, maybe mention a few things you created.
+1. Add yourself at the bottom of the list, mention a few things you created. Try to show your passion by linking to a fun project or five! :)
 2. Make a PR. I'll accept basically anything! :D (… as long as it's reasonable.)
 3. Show the world that [you have committed to passion](https://github.com/BenWiederhake/passion/commit/fe543fbe0d8a60ac4bc2405fd921320b6df95c2f)
