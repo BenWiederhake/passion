@@ -10,6 +10,7 @@ In this repository, you can prove that you *have* committed to passion!
 
 - [Ben Wiederhake](https://github.com/BenWiederhake), does stuff with [Serenity](https://github.com/SerenityOS/serenity), [recreational](https://github.com/BenWiederhake/evo_path#evo_path) [stuff](https://benwiederhake.github.io/oeis-funfacts/), [quines](https://github.com/BenWiederhake/normal-quine#normal-quine), and [small](https://github.com/BenWiederhake/ear#ear) [tools](https://github.com/BenWiederhake/pwned_passwords#pwned_passwords).
 - [Diego E. Salazar](https://github.com/DiegoSalazar) Plays with web stuff. Occasionally mentors. Works at Bloomberg. [LinkedIn](https://www.linkedin.com/in/diegoesalazar/)
+- [Tyler Porter](https://github.com/pawptart), Ruby web dev and Raspberry Pi enthusiast. Regular contributer to [MLB LED Scoreboard](https://github.com/MLB-LED-Scoreboard/mlb-led-scoreboard).
 
 ## How-to
 
