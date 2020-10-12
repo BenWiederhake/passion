@@ -13,6 +13,7 @@ In this repository, you can prove that you *have* committed to passion!
 - [Tim Engel](https://github.com/Veticus) currently spends way to much time on [PurpleFinch](https://github.com/DMU20s/PurpleFinch) and likes unnecessary hardware hackjobs. Decided to go back to school to get a computer science degree.
 - [Paul Kuruvilla](https://rohitpaulk.com), makes programming challenges at [codecrafters.io](https://codecrafters.io).
 - [Tyler Porter](https://github.com/pawptart), Ruby web dev and Raspberry Pi enthusiast. Regular contributer to [MLB LED Scoreboard](https://github.com/MLB-LED-Scoreboard/mlb-led-scoreboard).
+- [Greg Chetcuti](https://github.com/chetcuti), passionate about all things technology and creator of the open source project [DomainMOD](https://domainmod.org). Come say hi at [chetcuti.com](http://chetcuti.com)
 
 <!--
 Hi! Feel free to add yourself.
