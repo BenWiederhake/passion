@@ -14,6 +14,7 @@ In this repository, you can prove that you *have* committed to passion!
 - [Paul Kuruvilla](https://rohitpaulk.com), makes programming challenges at [codecrafters.io](https://codecrafters.io).
 - [Tyler Porter](https://github.com/pawptart), Ruby web dev and Raspberry Pi enthusiast. Regular contributer to [MLB LED Scoreboard](https://github.com/MLB-LED-Scoreboard/mlb-led-scoreboard).
 - [Greg Chetcuti](https://github.com/chetcuti), passionate about all things technology and creator of the open source project [DomainMOD](https://domainmod.org). Come say hi at [chetcuti.com](http://chetcuti.com)
+- [Noel Jacob](https://github.com/NoelJacob), just reads books, watches movies, stars repos, and is lazy af, but nevertheless, he has committed to passion. Get to me at me [Instagram](https://instagram.com/n.o.e.1) or [Twitter](https://twitter.com/NoelJacob01).
 
 <!--
 Hi! Feel free to add yourself.
