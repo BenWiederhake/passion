@@ -15,6 +15,7 @@ In this repository, you can prove that you *have* committed to passion!
 - [Tyler Porter](https://github.com/pawptart), Ruby web dev and Raspberry Pi enthusiast. Regular contributer to [MLB LED Scoreboard](https://github.com/MLB-LED-Scoreboard/mlb-led-scoreboard).
 - [Greg Chetcuti](https://github.com/chetcuti), passionate about all things technology and creator of the open source project [DomainMOD](https://domainmod.org). Come say hi at [chetcuti.com](http://chetcuti.com)
 - [João Freitas](https://github.com/joaoofreitas), young but passionate programmer that loves linux and electronics. Works at Unipartner as Full Stack Engineer. Developer of a fast, compiled and suckless version of GitHub Actions [Run-On-Commit](https://github.com/joaoofreitas/run-on-commit).
+- [Noel Jacob](https://github.com/NoelJacob), just reads books, watches movies, stars repos, and is lazy af, but nevertheless, he has committed to passion. Get to me at me [Instagram](https://instagram.com/n.o.e.1) or [Twitter](https://twitter.com/NoelJacob01).
 
 <!--
 Hi! Feel free to add yourself.
